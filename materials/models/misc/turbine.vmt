@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/misc/turbine"
+	"$bumpmap" "models/misc/turbine_normal"
+	"$surfaceprop" "metal"
+	"$alphatest""1"
+
+	"$phong" "1" 
+	"$phongboost" "0.1" 
+	"$phongfresnelranges" "[0.5 0.5 0.5]"
+	"$phongexponent" "10"
+	"$model" "1"
+}
+
+

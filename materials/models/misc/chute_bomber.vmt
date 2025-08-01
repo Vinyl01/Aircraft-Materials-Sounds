@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/misc/chute_bomber"
+	"$bumpmap" "models/misc/chute_bomber_n"
+	"$surfaceprop" "metal"
+	"$translucent" "1"
+	"$alphatest" "1"
+	"$nocull" "1"
+	"$halflambert" "1"
+		
+	"$phong"	"1"
+	"$phongboost"	"10"
+	"$phongexponent" "500"
+	"$phongfresnelranges" "[0.05 0.5 1]"
+}

@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/misc/afterburner1"
+	"$selfillum" "1"
+
+	"$translucent" "1"
+	"$nocull" "1"
+
+	"$EmissiveBlendEnabled"  "1"
+	"$EmissiveBlendStrength" "1" 
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "instruments/colimator"
+	"$translucent" 1
+	"$selfillum" "1"
+}

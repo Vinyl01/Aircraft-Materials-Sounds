@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/misc/throttle"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/misc/chute_france"
+	"$bumpmap" "models/misc/chute_france_n"
+	"$surfaceprop" "metal"
+	"$model" "1"
+	"$nocull" "1"
+	"$halflambert" "1"
+		
+	"$phong"	"1"
+	"$phongboost"	"10"
+	"$phongexponent" "500"
+	"$phongfresnelranges" "[0.05 0.5 1]"
+}

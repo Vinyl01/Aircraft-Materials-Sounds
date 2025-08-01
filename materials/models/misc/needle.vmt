@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	$basetexture "models/misc/needle"
+	"$translucent" "1"
+}

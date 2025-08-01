@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/pods/psrak_m70_pod"
+	"$model" "1"
+	"$nocull" "1"
+	"$halflambert" "1"
+	"$blendtintbybasealpha" "1"
+			
+	$phong 1
+	$phongboost	5
+	$phongfresnelranges	"[0.05 0.5 1]"
+}
